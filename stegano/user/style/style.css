@@ -1,0 +1,46 @@
+#center
+{	
+	background-color: black; 
+	top : 50%;
+	left: 50%;
+	//text-align: center;
+	height: 100%;
+	width:  350px;
+	opacity: 0.7;
+	margin-left: 37%;
+  color: white;
+}
+#center:hover
+{
+	opacity: 0.9;
+}
+input {
+  width: 100%;
+  padding: 12px 20px;
+}
+textarea {
+  width: 100%;
+  height: 150px;
+  padding: 12px 20px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  background-color: #f8f8f8;
+  resize: none;
+  opacity: 0.8;
+}
+textarea::placeholder { color: black; font-weight: bold;}
+#hell {
+  background-color: #f55656; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  top: 50%;
+  right: 50%;
+}
