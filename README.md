@@ -10,7 +10,9 @@ Steganography in php with help of html,css,javascript.Steganography with 3-way E
 
 # Screenshot
 1)
-(https://raw.githubusercontent.com/cbz42/Steganography-PHP/master/Screenshot/steg1.PNG)
+![steg1](https://user-images.githubusercontent.com/29067160/87424940-80b40a00-c5fa-11ea-89ea-abf5258e52ba.PNG)
+
 
 2)
-(https://raw.githubusercontent.com/cbz42/Steganography-PHP/master/Screenshot/steg1.PNG)
+![steg2](https://user-images.githubusercontent.com/29067160/87425085-af31e500-c5fa-11ea-9bc5-80f9db23c43b.PNG)
+
