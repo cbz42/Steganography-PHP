@@ -8,6 +8,10 @@ Steganography in php with help of html,css,javascript.Steganography with 3-way E
 1)Forget password not work if you will not configure sendmail
 2)To configure watch (https://www.youtube.com/watch?v=9W644cyDyNM)
 
+# Upgarde in project
+please contribute in https://github.com/cbz42/Steganography-Android-java-kotlin- for normal user without using server.If any question you can ping me on whatsapp +918419911042
+#aatmanirbarbharat.
+
 # Screenshot
 1)
 ![steg1](https://user-images.githubusercontent.com/29067160/87424940-80b40a00-c5fa-11ea-89ea-abf5258e52ba.PNG)
@@ -15,4 +19,5 @@ Steganography in php with help of html,css,javascript.Steganography with 3-way E
 
 2)
 ![steg2](https://user-images.githubusercontent.com/29067160/87425085-af31e500-c5fa-11ea-9bc5-80f9db23c43b.PNG)
+
 
