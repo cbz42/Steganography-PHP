@@ -9,8 +9,7 @@ Steganography in php with help of html,css,javascript.Steganography with 3-way E
 2)To configure watch (https://www.youtube.com/watch?v=9W644cyDyNM)
 
 # Upgarde in project
-please contribute in https://github.com/cbz42/Steganography-Android-java-kotlin- for normal user without using server.If any question you can ping me on whatsapp +918419911042
-#aatmanirbarbharat.
+please contribute in https://github.com/cbz42/Steganography-Android-java-kotlin- for normal user without using server.If any question you can ping me on whatsapp +918419911042.
 
 # Screenshot
 1)
